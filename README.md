@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @normalworkman zeng
 - 👀 I’m interested in power energy
 - 🌱 I’m currently learning riscv
-- 💞️ I’m looking to collaborate on IC coding
+- 💞️ I’m looking to collaborate on mcu hal coding
 - 📫 How to reach me 419947999@qq.com
 
 <!---
